@@ -1,2 +1,8 @@
-# ACM-SRM-Society-Chatting-Platform
-Web Chatting platform, for usage of ACM SRM Society.  Features include: Individual chats, Group chats, permissions and roles, ability to send images, videos. Make and edit profiles, with profile pic, name, description, domain and title.  A space that displays leads and heads of domains and upcoming events
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
